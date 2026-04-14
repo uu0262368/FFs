@@ -13,5 +13,20 @@
     "mustHave": "",
     "mustAvoid": "",
     "details": ""
+  },
+  {
+    "title": "р",
+    "file": "template2.html",
+    "pairs": [],
+    "characters": [
+      "р"
+    ],
+    "genre": "Романтика",
+    "tone": "лёгкий",
+    "length": "короткий",
+    "relationshipType": "Враги → любовь",
+    "mustHave": "",
+    "mustAvoid": "",
+    "details": ""
   }
 ]

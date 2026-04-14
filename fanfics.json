@@ -28,5 +28,20 @@
     "mustHave": "",
     "mustAvoid": "",
     "details": ""
+  },
+  {
+    "title": "а",
+    "file": "template3.html",
+    "pairs": [],
+    "characters": [
+      "а"
+    ],
+    "genre": "Романтика",
+    "tone": "лёгкий",
+    "length": "короткий",
+    "relationshipType": "Враги → любовь",
+    "mustHave": "",
+    "mustAvoid": "",
+    "details": ""
   }
 ]

@@ -14,5 +14,21 @@
     "mustHave": "",
     "mustAvoid": "",
     "details": ""
+  },
+  {
+    "title": "Один из удалённых заказов2",
+    "file": "template2.html",
+    "pairs": [],
+    "characters": [
+      "Асмин",
+      "Асылназ"
+    ],
+    "genre": "Романтика, Комедия, Экшен, Флафф, Повседневность",
+    "tone": "лёгкий",
+    "length": "средний",
+    "relationshipType": "Друзья → любовь",
+    "mustHave": "",
+    "mustAvoid": "",
+    "details": ""
   }
 ]

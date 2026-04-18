@@ -282,5 +282,22 @@
     "mustHave": "",
     "mustAvoid": "",
     "details": ""
+  },
+  {
+    "title": "Лаула-Бактыбек #5",
+    "file": "template20.html",
+    "pairs": [
+      "Лаула-Бактыбек"
+    ],
+    "characters": [
+      "Лаула Бактыбек"
+    ],
+    "genre": "Романтика",
+    "tone": "лёгкий",
+    "length": "длинный",
+    "relationshipType": "Враги → любовь, Без романтики",
+    "mustHave": "Бак бак что то сделал и теперь они опять враги",
+    "mustAvoid": "",
+    "details": ""
   }
 ]
